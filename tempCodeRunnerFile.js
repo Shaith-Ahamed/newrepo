@@ -1,0 +1,1 @@
+// const db = new sqlite3.Database('C:/Users/shait/datas_check.db');
